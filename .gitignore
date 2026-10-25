@@ -1,0 +1,8 @@
+*.iso
+*.cso
+*.chd
+*.bin
+*.rom
+*.zip
+*.7z
+__pycache__/
